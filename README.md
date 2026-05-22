@@ -1,4 +1,7 @@
-# git rebase 활용 사례 연구
+# Git rebase 활용 사례 연구
+
+Github : [Exercise Git Rebase](https://github.com/ohhoonim/excercise-git-rebase.git)
+https://github.com/ohhoonim/excercise-git-rebase.git
 
 ### 요약
 
